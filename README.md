@@ -1,9 +1,6 @@
-<img width="682" alt="image" src="https://github.com/hyeeun00/open/assets/141088088/c6968975-51e6-49be-93d7-eef4f4b026c1"><img width="682" alt="image" src="https://github.com/hyeeun00/open/assets/141088088/00073e57-63b7-4c27-9987-aab07d7e3672"># opensource assignment
+#opensource assignment
 
-top = 
-ps = 
-jobs = 
-kill =
+//top = ps = jobs = kill =
 ***
 **top**
 
