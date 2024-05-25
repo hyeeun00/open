@@ -133,6 +133,12 @@ b : Batch 모드로 작동
 
 ## kills
 
+<img width="249" alt="image" src="https://github.com/hyeeun00/open/assets/141088088/f78ae6ff-a846-4712-aa10-a4d7568eceb2">
+
+
+<img width="697" alt="image" src="https://github.com/hyeeun00/open/assets/141088088/2874c52a-764a-48b2-8680-cf605c569c45">
+
+
 **개념**
 
 주로 프로세스를 종료하는 용도로 많이 사용
