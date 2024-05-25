@@ -2,12 +2,11 @@
 
 //top = ps = jobs = kill =
 ***
-**top**
+**1. top**
 
 <img width="682" alt="image" src="https://github.com/hyeeun00/open/assets/141088088/22640ee3-839c-4af4-bbdd-ef20f7897369">
 
-
-1. 개념
+개념
 
 
 top 명령어는 리눅스 모든 운영체제에서 실행중인 프로세스와 시스템 자원 사용량을 실시간으로 모니터링 할 수 있도록 도와주는 도구이다. 시스템의 상태를 전반적으로 가장 빠르고 파악 가능하다. CPU, Memory, Process, disk 활동 등 다양한 측면에서 시스템의 성능을 파악하는 데 도움을 준다.
