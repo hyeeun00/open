@@ -1,16 +1,18 @@
-# opensource assignment
+<img width="682" alt="image" src="https://github.com/hyeeun00/open/assets/141088088/c6968975-51e6-49be-93d7-eef4f4b026c1"><img width="682" alt="image" src="https://github.com/hyeeun00/open/assets/141088088/00073e57-63b7-4c27-9987-aab07d7e3672"># opensource assignment
 
 top = 
 ps = 
 jobs = 
 kill =
 ***
-*top*
+**top**
 
 <img width="682" alt="image" src="https://github.com/hyeeun00/open/assets/141088088/22640ee3-839c-4af4-bbdd-ef20f7897369">
 
+top 명령어는 리눅스 모든 운영체제에서 실행중인 프로세스와 시스템 자원 사용량을 실시간으로 모니터링 할 수 있도록 도와주는 도구이다. 시스템의 상태를 전반적으로 가장 빠르고 파악 가능하다. CPU, Memory, Process, disk 활동 등 다양한 측면에서 시스템의 성능을 파악하는 데 도움을 준다.
 
-시스템의 상태를 전반적으로 가장 빠르게 파악 가능(CPU, Memory, Process)
+
+
 옵션 없이 입력하면 interval 간격(기본 3초)으로 화면을 갱신하며 정보를 보여줌
 top 실행 전 옵션
 순간의 정보를 확인하려면 -b 옵션 추가(batch 모드)
