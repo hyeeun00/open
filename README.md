@@ -1,6 +1,5 @@
 # opensource assignment
 
-=======================
 
 ***
 ## top
